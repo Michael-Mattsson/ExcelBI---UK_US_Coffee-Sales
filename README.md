@@ -1,6 +1,6 @@
 Power BI Coffee Sales Analysis Project
 
-This Power BI project analyzes coffee sales data sourced from and inspired by this Prkect by Mo Chen [this Excel file](https://github.com/mochen862/excel-project-coffee-sales/blob/main/coffeeOrdersData.xlsx)
+This Power BI project analyzes coffee sales data sourced from and inspired by Mo Chen's Project [Excel file](https://github.com/mochen862/excel-project-coffee-sales/blob/main/coffeeOrdersData.xlsx)
 
 Project Overview - The goal of this project is to provide insights into coffee sales trends and customer behavior, focusing on the following aspects:
 
